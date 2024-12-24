@@ -3,3 +3,4 @@ adding content in file 2..
 this is third line
 this is fourth line
 this is fifth line
+tis is sixth line
