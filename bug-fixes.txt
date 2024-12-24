@@ -1,1 +1,2 @@
 first bug fixed
+another bug detected and fixed.
